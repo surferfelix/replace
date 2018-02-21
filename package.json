@@ -1,0 +1,17 @@
+{
+  "name": "Grawlix",
+  "version": "1.0.0",
+  "description": "This changes words into grawlix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "@wooorm @surferfelix",
+  "license": "ISC",
+  "dependencies": {
+    "semver": "^5.5.0"
+  }
+}
