@@ -1,17 +1,17 @@
-#Replace
+# Replace
 This is a program that will convert text to custom characters or grawlix.
 
-##Description
+## Description
 Grawlix is often used in comic books to depict the expression of anger.
 This program will take a string and determine the amount of characters in that string.
 After the program has determined the amount of characters it will look for vowels and draw grawlix in the following
 pattern; '@#$%!&?'. You can also use this program to draw custom characters in a style of choice.
 
-##How to use
+## How to use
 In your command line install Replace with
 `npm install replace`
 
-##Usage & Examples
+## Usage & Examples
 ```
 //First we need to set a word as a variable so that we can run "replace" on it
 var word = Voldemort
