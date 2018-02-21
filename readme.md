@@ -29,3 +29,6 @@ replace.grawlix(word); //@#$%!&?@#
 replace.vowel(word, '^'); V^ld^m^rt
 
  ```
+## License
+
+@ISC Felix den Heijer
